@@ -1,5 +1,7 @@
 Shopify Laravel App
 
+![Description of the screenshot](assets/screenshot.png)
+
 This application is built with Laravel 11 and integrates with the Shopify API to display all products from a Shopify store.
 
 Environment Variables
@@ -7,6 +9,7 @@ Environment Variables
 Set the following environment variables in your .env file:
 
 /* TEST VARS */
+
 SHOPIFY_API_KEY=bb7b754366887d4647d91d2c854c896a
 SHOPIFY_API_SECRET=061bffa21b1d41907a167dfe7833ef21
 SHOPIFY_ACCESS_TOKEN=53c37536e9ccae517fbc0a7a521691a3-1737234951
